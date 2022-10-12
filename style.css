@@ -1,0 +1,32 @@
+h1 {
+    color: orange;
+
+}
+h2{
+    color: red;
+
+}
+p {
+    border:1px solid blue ;
+
+}
+.title{
+    color: red ;
+    text-align: center;
+
+}
+article >p {
+    font-weight: bold;
+    background-color: #333;
+    color:#fff;
+    padding: 0.5em;
+
+
+a: link{
+    color: orange;
+   
+}
+
+
+
+
